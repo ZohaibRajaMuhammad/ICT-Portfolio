@@ -1,0 +1,5 @@
+I'm Muhammad Zohaib,  a first-semester BSSE student at MAJU, Karachi.
+2. Currently working as a Backend Developer at Collabez, building Node.js / Express APIs.
+3. My go-to stack is MERN  MongoDB, Express, React, Node.js  plus TypeScript & TailwindCSS.
+4. I've got 94 repos on GitHub covering full-stack apps, ML experiments, and UI components.
+5. The goal? Senior backend engineering,  clean APIs, optimised DBs, and maintainable code
