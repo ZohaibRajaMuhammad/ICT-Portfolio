@@ -30,9 +30,9 @@
 
 <div align="justify">
 
-I am a first-semester Bachelor of Software Engineering student at Mohammad Ali Jinnah University, Karachi, with concurrent professional experience as a Backend Developer at Collabez. My academic pursuits are grounded in practical, industry-level work — designing and maintaining server-side architectures, building RESTful APIs with Node.js and Express.js, and managing data pipelines through MongoDB.
+I am a first-semester Bachelor of Software Engineering student at Mohammad Ali Jinnah University, Karachi, with concurrent professional experience as a Backend Developer at Collabez. My academic pursuits are grounded in practical, industry-level work designing and maintaining server-side architectures, building RESTful APIs with Node.js and Express.js, and managing data pipelines through MongoDB.
 
-Beyond backend development, I have applied knowledge of frontend technologies including React.js and Next.js, which I employ when project scope demands full-stack contribution. My GitHub profile reflects 94 repositories spanning full-stack applications, machine learning experiments, and interface design — demonstrating both breadth of interest and consistency of output.
+Beyond backend development, I have applied knowledge of frontend technologies, including React.js and Next.js, which I employ when project scope demands full-stack contribution. My GitHub profile reflects 94 repositories spanning full-stack applications, machine learning experiments, and interface design — demonstrating both breadth of interest and consistency of output.
 
 I approach software engineering with an emphasis on production-readiness: code that is maintainable, scalable, and built to be deployed — not merely demonstrated.
 
