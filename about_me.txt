@@ -1,0 +1,23 @@
+Muhammad Zohaib
+Registration 0025
+BSSE Semester 1 — Mohammad Ali Jinnah University, Karachi
+CS1260 — Application of Information & Communication Technology
+
+
+I am a first-semester software engineering student at MAJU and currently
+working as a Backend Developer at Collabez, where I build and maintain
+REST APIs using Node.js and Express with MongoDB as the primary database.
+
+My day-to-day work sits on the backend but I am comfortable across the
+full MERN stack. I also work with TypeScript, Next.js, NestJS, TailwindCSS,
+and PostgreSQL depending on what the project calls for. Over time I have
+built up 94 public repositories covering web applications, small machine
+learning projects, and reusable UI work.
+
+I am early in my degree but not early in the field. The plan is straightforward,
+get better at backend systems, write code that holds up under pressure, and
+keep building things that actually work.
+
+GitHub    github.com/ZohaibRajaMuhammad
+LinkedIn  linkedin.com/in/muhammad-zohaib-999a52263
+Portfolio muhammad-zohaib.vercel.app
